@@ -46,5 +46,5 @@ This project was about control, patience, and sharpening the basics.
 
 ### 🔗 Link to Live Page
 
-[Mintlify Live Page ↗]()
+[Mintlify Live Page ↗](https://mintlify-ui-landing-page-cocbaxjhq-priteshkitturs-projects.vercel.app/)
 
